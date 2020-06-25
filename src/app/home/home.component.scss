@@ -86,7 +86,7 @@
 
         img {
           height: 350px;
-          opacity: 10%;
+          opacity: 10% !important;
           transition: all 0.25s ease-in-out;
         }
         .card__text {
